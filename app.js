@@ -57,3 +57,14 @@ btn.addEventListener("click", (evt) => {
 window.addEventListener("load", () => {
   updateExchangeRate();
 });
+
+const exchangeIcon = document.querySelector(".exchange-icon");
+exchangeIcon.addEventListener("click", () => {
+  let temp = fromCurr.value;
+  fromCurr.value = toCurr.value;
+  toCurr.value = temp;
+
+  updateFlag(fromCurr);
+  updateFlag(toCurr);
+  updateExchangeRate();
+})
