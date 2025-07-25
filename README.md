@@ -39,4 +39,4 @@ Feel free to reach out if you have questions or suggestions.
 
 ---
 
-> Created by Anshuman Kharbade | Web Developer Fresher
+> Created by Anshuman Kharbade 
