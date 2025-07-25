@@ -27,10 +27,6 @@ Currency converter/
 - CSS3
 - JavaScript (Vanilla)
 
-## 📷 Screenshots
-
-_Add screenshots here if available_
-
 ## 📦 How to Run
 
 1. Clone the repository
